@@ -1,0 +1,21 @@
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\bin\Debug\Kalkulator IP.exe.config
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\bin\Debug\Kalkulator IP.exe
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\bin\Debug\Kalkulator IP.pdb
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\bin\Debug\System.Buffers.dll
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\bin\Debug\System.Memory.dll
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\bin\Debug\System.Net.IPNetwork.dll
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\bin\Debug\System.Buffers.xml
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\bin\Debug\System.Memory.xml
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\bin\Debug\System.Net.IPNetwork.xml
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\obj\Debug\Kalkulator IP.csprojAssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\obj\Debug\Kalkulator_IP.Form1.resources
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\obj\Debug\Kalkulator_IP.Properties.Resources.resources
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\obj\Debug\Kalkulator IP.csproj.GenerateResource.cache
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\obj\Debug\Kalkulator IP.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\obj\Debug\Kalkulator IP.csproj.CopyComplete
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\obj\Debug\Kalkulator IP.exe
+C:\Users\Krzysiek\source\repos\Kalkulator IP\Kalkulator IP\obj\Debug\Kalkulator IP.pdb
